@@ -1,3 +1,5 @@
+
+##Trigger for all branches
 trigger:
 - '*'
 
